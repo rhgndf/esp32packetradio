@@ -1,0 +1,6 @@
+[submodule "firmware/template-app/components/esp32usb"]
+	path = firmware/template-app/components/esp32usb
+	url = https://github.com/atanisoft/esp32usb.git
+[submodule "firmware/components/esp_littlefs"]
+	path = firmware/components/esp_littlefs
+	url = https://github.com/joltwallet/esp_littlefs.git
